@@ -1,0 +1,12 @@
+name: SouthBendBroadband
+title: SouthBendBroadband
+username:
+account: duncan96
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2061162
+bundleId: 2972111
+url: https://duncan96.shinyapps.io/SouthBendBroadband/
+when: 1586106769.03948
+asMultiple: FALSE
+asStatic: FALSE
